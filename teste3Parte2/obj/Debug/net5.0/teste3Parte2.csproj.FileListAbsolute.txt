@@ -1,0 +1,16 @@
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\bin\Debug\net5.0\teste3Parte2.exe
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\bin\Debug\net5.0\teste3Parte2.deps.json
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\bin\Debug\net5.0\teste3Parte2.runtimeconfig.json
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\bin\Debug\net5.0\teste3Parte2.runtimeconfig.dev.json
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\bin\Debug\net5.0\teste3Parte2.dll
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\bin\Debug\net5.0\ref\teste3Parte2.dll
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\bin\Debug\net5.0\teste3Parte2.pdb
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\obj\Debug\net5.0\teste3Parte2.csprojAssemblyReference.cache
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\obj\Debug\net5.0\teste3Parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\obj\Debug\net5.0\teste3Parte2.AssemblyInfoInputs.cache
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\obj\Debug\net5.0\teste3Parte2.AssemblyInfo.cs
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\obj\Debug\net5.0\teste3Parte2.csproj.CoreCompileInputs.cache
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\obj\Debug\net5.0\teste3Parte2.dll
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\obj\Debug\net5.0\ref\teste3Parte2.dll
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\obj\Debug\net5.0\teste3Parte2.pdb
+C:\Users\AndressaPC\Documents\digitalInovation\teste3Parte2\obj\Debug\net5.0\teste3Parte2.genruntimeconfig.cache
